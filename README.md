@@ -7,42 +7,40 @@
 
 |  Problem ID | Problem Name   | Question  | Answer   |
 |-------------|----------------|-----------|----------|
-|  1A     | Theatre Square |[Question](https://codeforces.com/problemset/problem/1/A)|[Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/1A%20Theatre%20Square/A.Theatre_Square.py)|
-|4A | Watermelon | [Question](https://codeforces.com/problemset/problem/4/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/4A%20Watermelon/Solve.c)|
-| 41A | 41A Translation | [Question](https://codeforces.com/problemset/problem/41/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/41A%20Translation/solve.py) |
-| 50A | Domino Piling | [Question](https://codeforces.com/problemset/problem/50/A)| [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/50A%20Domino%20Piling/solve.c)|
-| 58A | Chat Room | [Question](https://codeforces.com/problemset/problem/58/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/58A%20Chat%20Room/solve.c) |
-|59A | Word | [Question](https://codeforces.com/problemset/problem/59/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/59A%20Word/A_Word.c) |
-|69A | Young Physicist | [Question](https://codeforces.com/problemset/problem/69/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/69A%20Young%20Physicist/solve.c) |
-|71A| A Way Too Long Words | [Question](https://codeforces.com/problemset/problem/71/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/71A%20Way%20Too%20Long%20Words/A_Way_too_long_words.c) |
-|96A| Football | [Question](https://codeforces.com/problemset/problem/96/A) | [Answer](https://github.com/FahimFBA/Codeforces-Solution/blob/main/96A%20Football/solve.c) |
-|110A| Nearly Lucky Number | [Question](https://codeforces.com/problemset/problem/110/A) | [Answer](https://github.com/FahimFBA/Codeforces-Solution/blob/main/110A%20Nearly%20Lucky%20Number/solve.cpp) |
-|112A| Petya and Strings | [Question](https://codeforces.com/problemset/problem/112/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/112A%20Petya%20and%20Strings/solve.py) |
-|116A| Tram | [Question](https://codeforces.com/problemset/problem/116/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/116A%20Tram/solve.c) |
-|118A|String Task |[Question](https://codeforces.com/problemset/problem/118/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/118A%20String%20Task/solve.c)| 
-|122A| Lucky Division| [Question](https://codeforces.com/problemset/problem/122/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/122A%20Lucky%20Division/solve.py)| 
-|133A| HQ9+| [Question](https://codeforces.com/problemset/problem/133/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/133A%20HQ9%2B/solve.py)| 
-|136A| Presents| [Question](https://codeforces.com/problemset/problem/136/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/136A%20Presents/solve.c) |
-|158A| Next Round | [Question](https://codeforces.com/problemset/problem/158/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/158A%20Next%20Round/A_Next_Round.c) |
-|160A| Twins | [Question](https://codeforces.com/problemset/problem/160/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/160A%20Twins/solve.cpp) |
-|231A| Team | [Question](https://codeforces.com/problemset/problem/231/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/231A%20Team/A_Team.c) |
-|236A| Boy or Girl | [Question](https://codeforces.com/problemset/problem/236/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/236A%20Boy%20or%20Girl/A_Boy_Or_Girl.py) |
-|263A| Beautiful Matrix | [Question](https://codeforces.com/problemset/problem/263/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/263A%20Beautiful%20Matrix/Beautiful_Matrix.cpp) | 
-|266A| Stones on the Table | [Question](https://codeforces.com/problemset/problem/266/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/266A%20Stones%20on%20the%20Table/solve.c) |
-|266B| Queue at the School | [Question](https://codeforces.com/problemset/problem/266/B) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/266B%20Queue%20at%20the%20School/solve.cpp) |
-|271A| Beautiful Year | [Question](https://codeforces.com/problemset/problem/271/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/271A%20Beautiful%20Year/A_Beautiful_Year.c) |
-|281A| Word Capitalization | [Question](https://codeforces.com/problemset/problem/281/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/tree/main/281A%20Word%20Capitalization) |
-|282A| Bit++ | [Question](https://codeforces.com/problemset/problem/282/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/282A%20Bit%2B%2B/solve.c) |
-|339A| Helpful Maths| [Question](https://codeforces.com/problemset/problem/339/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/339A%20Helpful%20Maths/solve.py) |
-|344A| Magnets| [Question](https://codeforces.com/problemset/problem/344/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/344A%20Magnets/solve.cpp) |
-|467A| George and Accommodation| [Question](https://codeforces.com/problemset/problem/467/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/467A%20George%20and%20Accommodation/solve.cpp) | 
-|546A| Soldier and Bananas | [Question](https://codeforces.com/problemset/problem/546/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/546A%20Soldier%20and%20Bananas/solve.cpp) |
-|617A| Elephant | [Question](https://codeforces.com/problemset/problem/617/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/617A%20Elephant/solve.c) |
-|670A| Holidays | [Question](https://codeforces.com/problemset/problem/670/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/670A%20Holidays/A_Holidays.c) |
-|677A| Vanya and Fence| [Question](https://codeforces.com/contest/677/problem/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/677A%20Vanya%20and%20Fence/solve.cpp) |
-|734A| Anton and Danik | [Question](https://codeforces.com/contest/734/problem/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/734A%20Anton%20and%20Danik/solve.cpp) |
-|791A| Bear and Big Brother | [Question](https://codeforces.com/problemset/problem/791/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/791A%20Bear%20and%20Big%20Brother/solve.c) |
-|977A| Wrong Subtraction | [Question](https://codeforces.com/problemset/problem/977/A) | [Solution](https://github.com/FahimFBA/Codeforces-Solution/blob/main/977A%20Wrong%20Subtraction/solve.c) |
+|  1001     | Extremely Basic |[Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)|[Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1001.c)|
+|1002 | Area of a Circle | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1002) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1002.c)|
+| 1003 | Simple Sum | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1003) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1003.c) |
+| 1004 | Simple Product | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1004)| [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1004.c)|
+| 1005 | Average 1 | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1005) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1005.c) |
+|1006 | Average 2 | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1006) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1006.c) |
+|1007 | Difference | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1007) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1007.c) |
+|1008| Salary | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1008) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1008.c) |
+|1009| Salary with Bonus | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1009) | [Answer](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1009.c) |
+|1010| Simple Calculate | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1010) | [Answer](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1010.c) |
+|1011| Sphere | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1011) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1011.c) |
+|1012| Area | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1012) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1012.c) |
+|1013|The Greatest |[Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1013) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1013.c)| 
+|1014| Consumption| [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1014) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1014.c)| 
+|1015| Distance Between Two Points| [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1015) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1015.c)| 
+|1016| Distance| [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1016) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1016.c) |
+|1017| Fuel Spent | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1017) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1017.c) |
+|1018| Banknotes | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1018) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1018.c) |
+|1040| Average 3 | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1040) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1040.c) |
+|1041| Coordinates of a Point | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1041) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1041.c) |
+|1042| Simple Sort | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1042) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1042.c) | 
+|1043| Triangle | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1043) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1043.c) |
+|1044| Multiples | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1044) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1044.c) |
+|1045| Triangle Types | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1045) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1045.c) |
+|1046| Game Time | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1046) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1046.c) |
+|1047| Game Time with Minutes | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1047) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1047.c) |
+|1048| Salary Increase| [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1048) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1048.c) |
+|1049| Animal| [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1049) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1049.c) |
+|1050| DDD| [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1050) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1050.c) |
+|1052| Month | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1052) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1052.c) |
+|1059| Even Numbers | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1059) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1059.c) |
+|1060| Positive Numbers| [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1060) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1060.c) |
+|1064| Positives and Average | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1064) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1064.c) |
+|1065| Even Between five Numbers | [Question](https://www.urionlinejudge.com.br/judge/en/problems/view/1065) | [Solution](https://github.com/sayeemzzzaman/uri-problem-solution/blob/main/problem_1065.c) |
 
 
 
