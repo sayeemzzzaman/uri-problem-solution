@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <h1> URI Online Judge Solution </h1>
 
@@ -67,4 +67,4 @@
 
 
 
-</div>
+
